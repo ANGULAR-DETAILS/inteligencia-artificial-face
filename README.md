@@ -6,7 +6,7 @@
 
 1. Clone the repository:
 ```bash
-
+https://github.com/ANGULAR-DETAILS/inteligencia-artificial-face.git
 ```
 2. Install dependencies:
 
